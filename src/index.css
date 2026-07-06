@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+    --font-playfair: "Playfair", serif; 
+    --font-inter: "Inter", sans-serif; 
+    --font-great : "Great Vibes", cursive;
+
+    --color-primary: #1B3FA1;
+  --color-secondary: #6D87AD;
+  --color-accent: #090F44;
+
+  --color-background: #F4F5F7;
+  --color-surface: #C9CCD0;
+
+  --color-text: #090F44;
+  --color-text-light: #6D87AD;
+
+  --color-gold-accent: #6F5A55;
+  }
